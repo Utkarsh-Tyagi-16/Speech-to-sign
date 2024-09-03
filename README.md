@@ -23,3 +23,9 @@ Looping: Continue processing new speech input from step 3, looping through the s
 Error Handling
 
 If no speech is detected during the capture phase (Step 2), display an error message, such as "Could not detect speech," and prompt the user to try again.
+
+IMPORTANT Note:
+Inside the ISL_GIFS folder, there is another folder named ISL_GIFS.
+
+Copy all the GIFs from the second ISL_GIFS folder (the inner folder) into the first ISL_GIFS folder (the outer folder).
+After copying, delete the second ISL_GIFS folder (the inner folder).
